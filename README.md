@@ -1,2 +1,2 @@
 # Bootstrap-Porfolio
-Baic portfolio pages, built using Bootstrap
+Basic portfolio pages, built using Bootstrap
